@@ -1,7 +1,6 @@
-#location
-#date/time
-#teplota
-#description
+
+#asi nefunguje
+
 import requests
 while True:
     lokace = input("zadej lokaci:")
