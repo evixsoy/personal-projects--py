@@ -16,10 +16,7 @@ for i in range(0,len(listcisel)):
         cislo = listcisel[j]
         if cislo > nejvetsi:
             nejvetsi = cislo
-    for g in listcisel:
-        if g == nejvetsi:
-            break
-    listcisel.remove(g)
+    listcisel.remove(nejvetsi)
     listcisel.insert(i,nejvetsi)
 print(f"Seřazeno: {listcisel}")
 
