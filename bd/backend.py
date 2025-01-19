@@ -43,9 +43,9 @@ def action():
             yearsold = yearrl - int((yearlist[foundplace-1]))
             #email start
             # #email parametry
-            sender = "yourstoriesofficial1@gmail.com"
-            senderpass = "eecd tuhr wtkl dklm"
-            receiver = "evixytt@gmail.com"
+            sender = "#"
+            senderpass = "#"
+            receiver = "#"
             #message
             html_content = f"""
             <html>
