@@ -43,3 +43,5 @@ if outputval == 5:
     kowdw = input()
 else:
     print("you lose")
+
+#nefunguje
